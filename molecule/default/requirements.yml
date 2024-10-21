@@ -1,0 +1,7 @@
+---
+roles:
+  - name: nholuong.repo-remi
+  - name: nholuong.php-versions
+  - name: nholuong.php
+  - name: nholuong.composer
+  - name: nholuong.git
